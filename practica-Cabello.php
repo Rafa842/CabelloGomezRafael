@@ -5,7 +5,7 @@
  * @author Rafael Cabello
  * @version 1.0.0
  */
-class Ejemplo {
+class EjemploModificado {
     
     /**
      * Nombre del usuario.
